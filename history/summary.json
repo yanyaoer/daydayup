@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/www.fouland.com",
     "slug": "fouland",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 591,
     "timeDay": 549,
     "timeWeek": 598,
@@ -60,9 +60,9 @@
     "url": "https://xn--ynyo-2nad.com",
     "icon": "https://favicons.githubusercontent.com/xn--ynyo-2nad.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 131,
     "timeMonth": 365,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
