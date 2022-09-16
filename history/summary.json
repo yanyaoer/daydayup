@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 610,
-    "timeWeek": 794,
-    "timeMonth": 772,
-    "timeYear": 772,
+    "time": 768,
+    "timeDay": 692,
+    "timeWeek": 766,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 379,
-    "timeWeek": 402,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "time": 424,
+    "timeDay": 305,
+    "timeWeek": 387,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
-    "time": 591,
-    "timeDay": 549,
-    "timeWeek": 598,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "time": 585,
+    "timeDay": 491,
+    "timeWeek": 575,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2022-08-31": 73
     }
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/xn--ynyo-2nad.com",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 342,
-    "timeDay": 137,
+    "uptime": "99.89%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 331,
+    "timeDay": 139,
     "timeWeek": 135,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2022-09-15": 40
+      "2022-09-15": 26
     }
   }
 ]
