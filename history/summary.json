@@ -4,18 +4,20 @@
     "url": "https://at.yadanhe.com",
     "icon": "https://icons.duckduckgo.com/ip3/at.yadanhe.com.ico",
     "slug": "dududu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 888,
-    "timeWeek": 810,
-    "timeMonth": 792,
-    "timeYear": 783,
-    "dailyMinutesDown": {}
+    "time": 778,
+    "timeDay": 660,
+    "timeWeek": 763,
+    "timeMonth": 781,
+    "timeYear": 778,
+    "dailyMinutesDown": {
+      "2022-11-15": 0
+    }
   },
   {
     "name": "kaishem",
